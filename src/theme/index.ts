@@ -29,7 +29,7 @@ const GlobalStyles = createGlobalStyle<IGlobalStylesProps>`
 
       ${!removeBg &&
       css`
-        background-color: ${theme.colors.white};
+        background-color: ${theme.colors.smokeWhite};
       `}
     }
   `}

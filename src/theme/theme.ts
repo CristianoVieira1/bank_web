@@ -18,7 +18,7 @@ export default {
       medium: '1.6rem',
       large: '1.8rem',
       xlarge: '2.0rem',
-      xxlarge: '2.8rem',
+      xxlarge: '4.1rem',
       huge: '5.2rem'
     }
   },
@@ -29,6 +29,7 @@ export default {
     dangerText: '#FF0000',
     primary: '#023F88',
     secondaryBlue: '#0066A5',
+    secondary: '#3CD3C1',
     darkBlue: '#071C33',
     lightPrimary: '#E6ECF3',
     lightBlue: '#e3ebf3',
